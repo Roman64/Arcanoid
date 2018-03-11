@@ -1,0 +1,20 @@
+696
+Игрок: User	Time: 00:10	Balls: 10	MaxSpeed: 8
+360
+Игрок: Маня	Time: 00:11	Balls: 8	MaxSpeed: 8
+352
+Игрок: User	Time: 00:27	Balls: 5	MaxSpeed: 4
+294
+Игрок: Маня	Time: 01:08	Balls: 4	MaxSpeed: 3
+90
+Игрок: User	Time: 00:03	Balls: 10	MaxSpeed: 3
+30
+Игрок: User	Time: 00:01	Balls: 10	MaxSpeed: 3
+22
+Игрок: User	Time: 00:06	Balls: 2	MaxSpeed: 2
+16
+Игрок: User	Time: 00:04	Balls: 2	MaxSpeed: 2
+8
+Игрок: User	Time: 00:02	Balls: 2	MaxSpeed: 2
+4
+Игрок: User	Time: 00:01	Balls: 2	MaxSpeed: 2
